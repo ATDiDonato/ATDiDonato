@@ -8,6 +8,7 @@ I enjoy taking problems from requirements through to working solutions—prepari
 
 ## Selected projects
 
+- **[Student dropout prediction](https://github.com/ATDiDonato/student-dropout-prediction)** — Comparing XGBoost and neural networks across enrolment, attendance and assessment stages, with model interpretation, a runnable notebook workflow and a business report.
 - **[Ship-engine anomaly detection](https://github.com/ATDiDonato/ship-engine-anomaly-detection)** — Exploring candidate anomalies using IQR, One-Class SVM and Isolation Forest, with model comparisons and a stakeholder report.
 - **[Customer segmentation](https://github.com/ATDiDonato/customer-segmentation)** — Segmenting 68,300 customers using K-means, clustering diagnostics and business interpretation, with a supporting report.
 
@@ -23,10 +24,9 @@ These repositories present academic project work, with methods, results and limi
 
 ## More portfolio work coming soon
 
-I’m preparing further completed projects for publication, covering student dropout prediction, NLP sentiment analysis and time-series forecasting.
+I’m preparing further completed projects for publication:
 
-Before sharing, I’m reviewing data permissions, removing identifying or confidential information, and adapting examples to use public or synthetic data where needed. Employer-project material will only be included where permitted.
-
-- **Student dropout prediction** — XGBoost and neural networks, staged feature comparisons and model interpretation. [Work-in-progress repository](https://github.com/ATDiDonato/student-dropout-prediction).
 - **NLP sentiment analysis** — Exploring text using topic modelling and language models.
 - **Time-series forecasting** — Comparing statistical and machine-learning approaches, with backtesting and evaluation.
+
+Before sharing, I’m reviewing data permissions, removing identifying or confidential information, and adapting examples to use public or synthetic data where needed. Employer-project material will only be included where permitted.
